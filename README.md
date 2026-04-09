@@ -47,7 +47,7 @@ The dashboard includes:
 ```
 news-sentiment-pipeline/
 │
-├── 02_news_sentiment_pipeline.ipynb   # Main notebook — full pipeline
+├── news_sentiment_pipeline.ipynb      # Main notebook — full pipeline
 ├── requirements.txt                   # Python dependencies
 ├── README.md                          # This file
 ├── .gitignore                         # Files excluded from version control
